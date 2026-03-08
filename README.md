@@ -438,3 +438,5 @@ println!("Counter: {}", *counter.lock().unwrap()); // 10
 
 ---
 *Living document — updated as I learn. Feel free to fork!*
+## 📅 Changelog
+  - v0.1.0 — Initial release, basic blockchain with PoW
